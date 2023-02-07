@@ -1,5 +1,5 @@
 FROM docker:git
-COPY .  /animal-store
+RUN git clone https://github.com/presnalex/animal-store.git
 RUN apk add curl
 RUN apk add --no-cache make
 COPY --from=golang:alpine /usr/local/go/ /usr/local/go/
