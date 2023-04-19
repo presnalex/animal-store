@@ -11,7 +11,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/presnalex/animal-store-proto v1.0.0
-	github.com/presnalex/go-micro/v3 v3.0.7
+	github.com/presnalex/go-micro/v3 v3.0.12
 	github.com/presnalex/statscheck v0.0.1
 	github.com/presnalex/swagger-ui-route v0.0.2
 	github.com/stretchr/testify v1.8.0
@@ -19,5 +19,5 @@ require (
 	go.unistack.org/micro-config-consul/v3 v3.8.1
 	go.unistack.org/micro-config-env/v3 v3.8.2
 	go.unistack.org/micro-server-http/v3 v3.10.2
-	go.unistack.org/micro/v3 v3.9.11
+	go.unistack.org/micro/v3 v3.10.14
 )
