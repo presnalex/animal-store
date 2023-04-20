@@ -81,7 +81,6 @@ github.com/gofrs/uuid v4.0.0+incompatible h1:1SD/1F5pU8p29ybwgQSwpQk+mwdRrXCYuPh
 github.com/gofrs/uuid v4.0.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/golang-jwt/jwt/v4 v4.1.0/go.mod h1:/xlHOz8bRuivTWchD4jCa+NbatV+wEUSzwAxVc6locg=
-github.com/golang-jwt/jwt/v4 v4.4.0/go.mod h1:/xlHOz8bRuivTWchD4jCa+NbatV+wEUSzwAxVc6locg=
 github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b/go.mod h1:SBH7ygxi8pfUlaOkMMuAQtPIUF8ecWP5IEl/CR7VP2Q=
 github.com/golang/mock v1.1.1/go.mod h1:oTYuIxOrZwtPieC+H1uAHpcLFnEyAGVDL/k47Jfbm0A=
 github.com/golang/protobuf v1.2.0/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
@@ -440,15 +439,15 @@ go.unistack.org/micro-proto/v3 v3.1.0/go.mod h1:DpRhYCBXlmSJ/AAXTmntvlh7kQkYU6eF
 go.unistack.org/micro-proto/v3 v3.2.7/go.mod h1:ZltVWNECD5yK+40+OCONzGw4OtmSdTpVi8/KFgo9dqM=
 go.unistack.org/micro-proto/v3 v3.3.1 h1:nQ0MtWvP2G3QrpOgawVOPhpZZYkq6umTGDqs8FxJYIo=
 go.unistack.org/micro-proto/v3 v3.3.1/go.mod h1:cwRyv8uInM2I7EbU7O8Fx2Ls3N90Uw9UCCcq4olOdfE=
-go.unistack.org/micro-server-http/v3 v3.10.2 h1:0Mxn/Wje+GDhGG5j5gjCGxIfA4bj6SbQYHGYOJBYkNE=
-go.unistack.org/micro-server-http/v3 v3.10.2/go.mod h1:iA6isUkzOcP6EIrsVWluKP8LfwSZDwVKi4Jk/ecWZtw=
+go.unistack.org/micro-server-http/v3 v3.10.3 h1:h+78b0VdYhtr154+nh+lasPctdNN7rFHiW1OCYEFQ8o=
+go.unistack.org/micro-server-http/v3 v3.10.3/go.mod h1:6cmPPw7Yvi5kIP0G3P2EeYI6+1upQEt9Y1zUx5+PmOY=
 go.unistack.org/micro/v3 v3.8.0/go.mod h1:Tkteri0wiiybbH6aPqay26pZHFIAwL9LXJc2x1Jkakk=
 go.unistack.org/micro/v3 v3.8.4/go.mod h1:KMMmOmbgo/D52/rCAbqeKbBsgEEbSKM69he54J3ZIuA=
 go.unistack.org/micro/v3 v3.8.7/go.mod h1:KMMmOmbgo/D52/rCAbqeKbBsgEEbSKM69he54J3ZIuA=
 go.unistack.org/micro/v3 v3.8.9/go.mod h1:KMMmOmbgo/D52/rCAbqeKbBsgEEbSKM69he54J3ZIuA=
 go.unistack.org/micro/v3 v3.8.11/go.mod h1:KMMmOmbgo/D52/rCAbqeKbBsgEEbSKM69he54J3ZIuA=
-go.unistack.org/micro/v3 v3.9.10/go.mod h1:LrBm9Fsf4MbY8DlUbdwRTYJosMkN8wrtOQHoYBlMkz8=
 go.unistack.org/micro/v3 v3.9.11/go.mod h1:LrBm9Fsf4MbY8DlUbdwRTYJosMkN8wrtOQHoYBlMkz8=
+go.unistack.org/micro/v3 v3.9.18/go.mod h1:gI4RkJKHLPW7KV6h4+ZBOZD997MRvFRXMPQIHpozikI=
 go.unistack.org/micro/v3 v3.10.10 h1:FMHMnQD4Hk9tc+kHZHzYlUjv49k0WZOOCCVFLVGTYwY=
 go.unistack.org/micro/v3 v3.10.10/go.mod h1:gI4RkJKHLPW7KV6h4+ZBOZD997MRvFRXMPQIHpozikI=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
