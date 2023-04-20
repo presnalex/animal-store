@@ -439,8 +439,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/posener/complete v1.1.1/go.mod h1:em0nMJCgc9GFtwrmVmEMR/ZL6WyhyjMBndrE9hABlRI=
 github.com/posener/complete v1.2.3/go.mod h1:WZIdtGGp+qx0sLrYKtIRAruyNpv6hFCicSgv7Sy7s/s=
-github.com/presnalex/animal-store-proto v1.0.0 h1:KkZksJ3D1YY/fqjpUU9kHnuKmHaJNYraaiMtIznmmNE=
-github.com/presnalex/animal-store-proto v1.0.0/go.mod h1:OrjngD2Nbhqacc6Uahyv9Ohg5lfbA2e+Kimd/n9DiXg=
+github.com/presnalex/animal-store-proto v1.0.1 h1:bWEIW/ctn+658Aw0ZJw9KqIAWgrVOoivxhyNi1+0uxw=
+github.com/presnalex/animal-store-proto v1.0.1/go.mod h1:OrjngD2Nbhqacc6Uahyv9Ohg5lfbA2e+Kimd/n9DiXg=
 github.com/presnalex/codec-bytes v0.0.1 h1:VeM3nJo3+sMKDaXsk8WK+P2cxptFgBB0fD0erJSJKwg=
 github.com/presnalex/codec-bytes v0.0.1/go.mod h1:US4Id4LwIJLi5ZTJrwpaC8xfJCZGk9KqJya5Fq1d6m8=
 github.com/presnalex/go-micro/v3 v3.0.12 h1:9ecaQHc4Rfv33kQZfrRHLbfdZvyxFae31ecnxdzHzLs=

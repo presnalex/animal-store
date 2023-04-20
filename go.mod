@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/go-sockaddr v1.0.2 // indirect
 	github.com/hashicorp/go-uuid v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1
-	github.com/presnalex/animal-store-proto v1.0.0
+	github.com/presnalex/animal-store-proto v1.0.1
 	github.com/presnalex/go-micro/v3 v3.0.12
 	github.com/presnalex/statscheck v0.0.1
 	github.com/presnalex/swagger-ui-route v0.0.2
