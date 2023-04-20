@@ -18,6 +18,6 @@ require (
 	go.unistack.org/micro-codec-json/v3 v3.8.0
 	go.unistack.org/micro-config-consul/v3 v3.8.1
 	go.unistack.org/micro-config-env/v3 v3.8.2
-	go.unistack.org/micro-server-http/v3 v3.10.2
+	go.unistack.org/micro-server-http/v3 v3.10.3
 	go.unistack.org/micro/v3 v3.10.10
 )
